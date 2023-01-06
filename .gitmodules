@@ -1,0 +1,3 @@
+[submodule "back-end/common-b-tools"]
+	path = back-end/common-b-tools
+	url = git@github.com:it-mengge/common-b-tools.git
