@@ -7,3 +7,6 @@
 [submodule "back-end/service-b-usercenter"]
 	path = back-end/service-b-usercenter
 	url = git@github.com:it-mengge/service-b-usercenter.git
+[submodule "back-end/service-b-oss"]
+	path = back-end/service-b-oss
+	url = git@github.com:itxiaomengge/service-b-oss.git
