@@ -10,3 +10,6 @@
 [submodule "back-end/service-b-oss"]
 	path = back-end/service-b-oss
 	url = git@github.com:itxiaomengge/service-b-oss.git
+[submodule "back-end/service-b-blogcenter"]
+	path = back-end/service-b-blogcenter
+	url = https://github.com/itxiaomengge/service-b-blogcenter.git
