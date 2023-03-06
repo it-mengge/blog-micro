@@ -13,3 +13,6 @@
 [submodule "back-end/service-b-blogcenter"]
 	path = back-end/service-b-blogcenter
 	url = https://github.com/itxiaomengge/service-b-blogcenter.git
+[submodule "front-end/blog-micro-vue"]
+	path = front-end/blog-micro-vue
+	url = git@github.com:itxiaomengge/blog-micro-vue.git
